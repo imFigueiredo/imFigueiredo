@@ -1,6 +1,8 @@
 ### Sobre mim
 
-Sou natural de José Bonifácio, no interior de São Paulo, e este é o meu repositório. Desde criança, sou apaixonado por jogos e tecnologia, e essa paixão me levou a me desafiar no universo da programação. Decidi então, buscar formas de compartilhar meus projetos e aprendizados.
+Sou de José Bonifácio, uma cidadezinha no interior de São Paulo, e este é o meu espaço no GitHub.
+
+Atualmente, estou no último período do curso de Análise e Desenvolvimento de Sistemas na Unorte, e, com isso, estou me preparando para me tornar um desenvolvedor full stack. Desde pequeno, sempre fui apaixonado por jogos e tecnologia, e essa paixão foi o que me levou a explorar o mundo da programação. Quero compartilhar meus projetos e aprendizados, buscando sempre novos desafios e trocando experiências com outras pessoas.
 
 
 <div align="left">
