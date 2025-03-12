@@ -6,7 +6,7 @@ Atualmente, estou no último período do curso de Análise e Desenvolvimento de 
 
 
 <div align="left">
-  <a href="https://www.twitch.tv/fgr1_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucashfig4@gmail.com"><img src="https://img.shields.io/badge/Email-brightgreen?style=for-the-badge" alt="Email Badge" /></a>
   <a href="https://www.linkedin.com/in/lucashfigueiredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/cd.figueiredo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
