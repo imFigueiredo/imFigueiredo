@@ -35,6 +35,6 @@ Tenho 21 anos, sou de José Bonifácio, <s>uma cidadezinha no interior de São P
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imFigueiredo&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9&bg_color=00000000&text_color=e7eff6&title_color=e7eff6" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imFigueiredo&theme=radical&layout=compact&custom_title=Linguagens:&langs_count=9&bg_color=00000000&text_color=e7eff6&title_color=e7eff6" 
 />
 
