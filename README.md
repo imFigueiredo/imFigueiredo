@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -63,3 +65,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imFigueiredo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Linguagens%20mais%20usadas:" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=imFigueiredo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%20do%20GitHub:" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/imFigueiredo/imFigueiredo/output/snake.svg" alt="Snake animation" />
+
+###
