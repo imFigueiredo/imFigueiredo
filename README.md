@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Desenvolvedor (em formação) Full-Stack<br>Entusiasta de jogos e livros<br> Sempre em busca de aprender algo novo e desenvolver projetos interessantes.</h3>
+<h3 align="center">Graduado em Análise e Desenvolvimento de Sistemas, hoje atuo como desenvolvedor focado em soluções web escaláveis. Minha rotina envolve a criação de sistemas com C# / .NET e a administração estratégica de bancos de dados SQL Server.</h3>
 
 ###
 
