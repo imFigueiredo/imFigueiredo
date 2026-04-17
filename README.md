@@ -36,18 +36,19 @@
   <tr>
      <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" />
-      <br />C
+      <br />
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-      <br />C#
+      <br />
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40" alt=".NET" />
-      <br />.NET
+      <br />
     </td>
   </tr>
 </table>
+
 ###
 
 <h4 align="center">Ferramentas:</h4>
