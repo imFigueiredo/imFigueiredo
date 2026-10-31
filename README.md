@@ -36,22 +36,17 @@ Sou um desenvolvedor **Full Stack** (23 anos) focado em soluções web escaláve
 
 ---
 
-### 📊 Estatísticas:
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/ImFigueiredo/ImFigueiredo/stats-output/stats.svg?hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
----
-
 ### 📬 Conecte-se comigo:
 
-<a href="https://www.linkedin.com/in/lucashfigueiredo/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="28" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/lucf.h" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="38" height="28" alt="Instagram" />
-</a>
-<a href="mailto:lucashfig4@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="28" alt="Gmail" />
-</a>
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/lucashfigueiredo/?locale=pt-BR" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:lucashfig4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://instagram.com/lucf.h" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
