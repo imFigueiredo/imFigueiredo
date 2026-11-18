@@ -1,13 +1,13 @@
-# Olá, pessoal. Meu nome é Lucas Figueiredo 👋
+# Olá a todos, bem-vindos ao meu cantinho 👋
 
-Sou um desenvolvedor **Full Stack** (23 anos) focado em soluções web escaláveis, integração de sistemas e gerenciamento de banco de dados. Graduado em Análise e Desenvolvimento de Sistemas, atuo na construção de aplicações completas, com forte domínio no ecossistema backend.
+Sou desenvolvedor **Full Stack**, tenho 23 anos e sou graduado em Análise e Desenvolvimento de Sistemas. Tenho foco no desenvolvimento de aplicações web completas, desde a construção do Back-end até a criação de interfaces e integração com bancos de dados.
 
-### 🚀 Percurso & Foco:
+### 🚀 Sobre Mim & Meu Foco:
 
-- ⚙️ **Desenvolvimento Backend:** Criação de APIs e microsserviços robustos com **C# / .NET** e **Python**.
-- 🌐 **Desenvolvimento Frontend:** Construção de interfaces e lógicas dinâmicas com **JavaScript**.
-- 🗄️ **Banco de Dados:** Modelagem, otimização de consultas e administração de dados com **SQL Server** e **Oracle**.
-- 📈 **Evolução Contínua:** Focado em boas práticas de código, Clean Code, padrões de projeto e arquitetura de software.
+- ⚙️ **Desenvolvimento Backend:** Desenvolvimento de aplicações web e APIs utilizando **C#/.NET** e **Python**.
+- 🌐 **Desenvolvimento Frontend:** Criação de interfaces e funcionalidades utilizando **JavaScript**.
+- 🗄️ **Banco de Dados:** Modelagem, consultas, otimização e administração de bancos de dados utilizando **SQL Server** e **Oracle**.
+- 📈 **Evolução Contínua:** Sempre buscando aprimorar minhas habilidades por meio de boas práticas de programação, Código Limpo, Padrões de Projeto e Arquitetura de Software.
 
 ---
 
